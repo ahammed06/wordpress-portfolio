@@ -1,0 +1,22 @@
+/*!
+Theme Name: ryancv child
+Theme URI: https://ryan.beshley.com/
+Author: Beshley Olexandr
+Author URI: https://beshley.com
+Description: Ryan - vCard / Resume / CV WordPress Theme
+Version: 1.0.1
+License: General Public License
+License URI: http://www.gnu.org/licenses/gpl.html
+Template: ryancv
+Text Domain: ryancv-child
+Tags: editor-style, featured-images, sticky-post, threaded-comments, translation-ready, theme-options 
+*/
+
+
+.content.works .row.grid-items .col.grid-item {
+    position: unset !important;
+}
+
+.content.works .row.grid-items {
+    height: unset !important;
+}
